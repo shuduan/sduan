@@ -17,9 +17,9 @@ layout: homepage
 ## Papers
 
 - **Term paper**
-- <br>
-- Smooth Representations of Totally Disconnected Locally Compact Groups
-- [[PDF](https://1drv.ms/b/s!AopK_GiN33tEgRk5wxqGe7C6VnHX?e=leB11f)]
+  <br>
+  Smooth Representations of Totally Disconnected Locally Compact Groups
+  [[PDF](https://1drv.ms/b/s!AopK_GiN33tEgRk5wxqGe7C6VnHX?e=leB11f)]
   <br>
   **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   <br>
