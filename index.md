@@ -26,7 +26,7 @@ layout: homepage
   <br> This paper introduces representations theory of finite groups and applications on GL_2 over finite fields.
   
   
- ## Activities
+## Activities
  
  - **[28.08.2022-02.09.2022] Automorphic Forms Summer School**
    <br>
