@@ -14,9 +14,12 @@ layout: homepage
 - **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
 
 
-## Publications
+## Papers
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Term paper**
+- <br>
+- Smooth Representations of Totally Disconnected Locally Compact Groups
+- [[PDF](https://1drv.ms/b/s!AopK_GiN33tEgRk5wxqGe7C6VnHX?e=leB11f)]
   <br>
   **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   <br>
