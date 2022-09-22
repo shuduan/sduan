@@ -20,11 +20,11 @@ layout: homepage
 - **Term paper supervised by Prof. Marat Rovinsky**
   <br>
   Smooth Representations of Totally Disconnected Locally Compact Groups [[PDF](https://1drv.ms/b/s!AopK_GiN33tEgRk5wxqGe7C6VnHX?e=leB11f)]
-  <br> This paper discusses general theory of smooth representations, then forcuses on representations of $\mathrm{GL}_n(F)$ for local field $F$.
+  <br> This paper discusses general theory of smooth representations, then forcuses on representations of GL_n over local fields.
   
 - **Bachelor thesis supervised by Dr. John Evans**
   <br>
   Representation Theory of Finite Groups and Applications [[PDF]]
-  <br> This paper introduces representations theory of finite groups and applications on $\mathrm{GL}_2(\mathbb{F}_{p^n})$.
+  <br> This paper introduces representations theory of finite groups and applications on GL_2 over finite fields.
   
 
