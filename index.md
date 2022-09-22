@@ -34,7 +34,7 @@ layout: homepage
    <br>
    Introduction to the p-adic Langlands program; Modular forms, sphere packing and energy minimization; Equidistribution in automorphic families; Estimates for L-functions
    
--**[01.2021-05.2021] Arizona Winter School**
+- **[01.2021-05.2021] Arizona Winter School**
   <br>
   The Sourthwest Center for Arithmetic Geometry [[link](https://swc-math.github.io/misc/aboutSWC/index.html)]
   <br>
