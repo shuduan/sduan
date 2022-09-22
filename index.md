@@ -24,6 +24,6 @@ layout: homepage
 - **Bachelor thesis supervised by Dr. John Evans**
   <br>
   Representation Theory of Finite Groups and Applications [[PDF]]
-  <br> This paper introduces representations theory of finite groups and applications on GL_2 over finite finite fields.
+  <br> This paper introduces representations theory of finite groups and applications on GL_2 over finite fields.
   
 
