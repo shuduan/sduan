@@ -1,12 +1,12 @@
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Shuaishuai Duan
+position: MSc. Student
+affiliation: Higher School of Economics, Moscow
+email: shduan@edu.hse.ru
 keywords: minimal academic
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/strata-academic
-linkedin: https://www.linkedin.com/
-cv_link: 
+#google_scholar: https://scholar.google.com/
+#github_link: https://github.com/yaoyao-liu/strata-academic
+#linkedin: https://www.linkedin.com/
+#cv_link: 
 avatar: ./assets/img/avatar.png
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
