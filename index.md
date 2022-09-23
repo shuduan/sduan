@@ -42,17 +42,17 @@ layout: homepage
    <br>
    Erdős Center - Alfréd Rényi Institute of Mathematics [[link](https://erdoscenter.renyi.hu/)]
    <br>
-   Introduction to the p-adic Langlands program; Modular forms, sphere packing and energy minimization; Equidistribution in automorphic families; Estimates for L-functions
+   Contents: Introduction to the p-adic Langlands program; Modular forms, sphere packing and energy minimization; Equidistribution in automorphic families; Estimates for L-functions
    
 - **[01.2021-05.2021] Arizona Winter School**
   <br>
   The Sourthwest Center for Arithmetic Geometry [[link](https://swc-math.github.io/misc/aboutSWC/index.html)]
   <br>
-  Modular forms, modular groups, quadratic forms, local-global principal
+  Contents: Modular forms, modular groups, quadratic forms, local-global principal
   
 - **[09.2020-12.2020] Frontier Courses for Postgraduates**
   <br>
-  Guangxi Center for Mathematical Research [[link](https://gxcmr.gxu.edu.cn/english.htm)]
+  Contents: Guangxi Center for Mathematical Research [[link](https://gxcmr.gxu.edu.cn/english.htm)]
   <br>
   Representation Theory
   
