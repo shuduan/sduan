@@ -56,9 +56,11 @@
           <br>
           <a href="NUIST-Transcripts-protected.pdf" style="color: white">Transcripts</a>
           <br>
-          {% if site.cv_link %}
-          <li><a href="{{ site.cv_link }}" class="icon solid fa-book" style="font-size:30px"><span class="label">CV</span></a></li>
-          {% endif %}
+            <ul class="icons">
+              {% if site.cv_link %}
+               <li><a href="{{ site.cv_link }}" class="icon solid fa-book" style="font-size:30px"><span class="label">CV</span></a></li>
+              {% endif %}
+            </ul>
           </header-info>
         </div>
       </header>
