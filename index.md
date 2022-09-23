@@ -28,7 +28,7 @@ layout: homepage
   <br>
   Smooth Representations of Totally Disconnected Locally Compact Groups [<a href="combinepdf.pdf">PDF</a>]
   <br>
-  This paper discusses general theory of smooth representations, then forcuses on representations of $$\mathrm{GL}_n(F) over local field $$F$$.
+  This paper discusses general theory of smooth representations, then forcuses on representations of $$\mathrm{GL}_n(F)$$ over local field $$F$$.
   
 - **Bachelor thesis supervised by Dr. John Evans**
   <br>
