@@ -11,6 +11,16 @@ layout: homepage
 - **Arithmetic Geometry**
 
 
+## Talks
+- **[07.2022-08.2022] Algebraic Geometry**
+  <br>
+  During this summer holiday a friend and I organized an unofficial student seminar in which I gave several talks based on the second chapter of Hartshone's Algebraic Geometry. [[Notes]](www.baidu.com)
+  
+- **[05.2022] Algebraic Cycles**
+  <br>
+  In a research seminar I gave a presentation on algebraic cycles by following some sections of Fulton's Intersection Theory. [[Notes]](www.baidu.com)
+
+
 
 ## Papers
 
