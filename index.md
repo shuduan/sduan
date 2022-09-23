@@ -16,7 +16,7 @@ layout: homepage
   <br>
   During this summer holiday a friend and I organized an unofficial student seminar in which I gave several talks based on the second chapter of Hartshone's Algebraic Geometry. [[Notes](https://www.baidu.com/)]
   
-- **[05.2022] Algebraic Cycles**
+- **[01.06.2022] Algebraic Cycles**
   <br>
   In a research seminar I gave a presentation on algebraic cycles by following some sections of Fulton's Intersection Theory. [<a href="PDF-Personal Web/algebraic cycles.pdf">Notes</a>]
 
