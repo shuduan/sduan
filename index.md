@@ -16,7 +16,7 @@ layout: homepage
 
 - **Term paper supervised by Prof. Marat Rovinsky**
   <br>
-  Smooth Representations of Totally Disconnected Locally Compact Groups [<a href="combinepdf.pdf">PDF</a>]
+  Smooth Representations of Totally Disconnected Locally Compact Groups [<a href="combinepdf-protected.pdf">PDF</a>]
   <br>
   This paper discusses general theory of smooth representations, then forcuses on representations of GL_n over local fields.
   
