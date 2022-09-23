@@ -9,8 +9,8 @@ keywords: minimal academic
 cv_link: /blog.html
 avatar: ./assets/img/1.jpg
 google_analytics: UA-111540567-4
-favicon: ./assets/img/phi.png
-favicon_dark: ./assets/img/phi.png
+favicon: ./assets/img/favicom.png
+favicon_dark: ./assets/img/favicon-dark.png
 description: The Strata Academic is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://strata-academic.yyliu.net/
 remote_theme: yaoyao-liu/strata-academic
