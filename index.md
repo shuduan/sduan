@@ -18,7 +18,7 @@ layout: homepage
   
 - **[05.2022] Algebraic Cycles**
   <br>
-  In a research seminar I gave a presentation on algebraic cycles by following some sections of Fulton's Intersection Theory. [[Notes](https:/www.baidu.com/)]
+  In a research seminar I gave a presentation on algebraic cycles by following some sections of Fulton's Intersection Theory. [[Notes](https://www.baidu.com/)]
 
 
 
