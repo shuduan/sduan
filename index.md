@@ -40,19 +40,19 @@ layout: homepage
  
  - **[28.08.2022-02.09.2022] Automorphic Forms Summer School**
    <br>
-   Erdős Center - Alfréd Rényi Institute of Mathematics [[link](https://erdoscenter.renyi.hu/)]
+   Institution: Erdős Center - Alfréd Rényi Institute of Mathematics [[link](https://erdoscenter.renyi.hu/)]
    <br>
    Contents: Introduction to the p-adic Langlands program; Modular forms, sphere packing and energy minimization; Equidistribution in automorphic families; Estimates for L-functions
    
 - **[01.2021-05.2021] Arizona Winter School**
   <br>
-  The Sourthwest Center for Arithmetic Geometry [[link](https://swc-math.github.io/misc/aboutSWC/index.html)]
+  Institution: The Sourthwest Center for Arithmetic Geometry [[link](https://swc-math.github.io/misc/aboutSWC/index.html)]
   <br>
   Contents: Modular forms, modular groups, quadratic forms, local-global principal
   
 - **[09.2020-12.2020] Frontier Courses for Postgraduates**
   <br>
-  Contents: Guangxi Center for Mathematical Research [[link](https://gxcmr.gxu.edu.cn/english.htm)]
+  Institution: Guangxi Center for Mathematical Research [[link](https://gxcmr.gxu.edu.cn/english.htm)]
   <br>
-  Representation Theory
+  Contents: Representation Theory
   
