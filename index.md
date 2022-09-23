@@ -33,7 +33,7 @@ layout: homepage
 - **Bachelor thesis supervised by Dr. John Evans**
   <br>
   Representation Theory of Finite Groups and Applications [<a href="MA3PRO_report2020-21.pdf">PDF</a>]
-  <br> This paper introduces representations theory of finite groups and applications on $$\mathrm{GL_2}(\mathbb{F}_{p^n})$$.
+  <br> This paper introduces representations theory of finite groups and applications on $$\mathrm{GL_2}(\mathbb{F}_{p^n})$$ for a prime $$p$$.
   
   
 ## Activities
@@ -42,7 +42,7 @@ layout: homepage
    <br>
    Institution: Erdős Center - Alfréd Rényi Institute of Mathematics [[link](https://erdoscenter.renyi.hu/)]
    <br>
-   Contents: Introduction to the p-adic Langlands program; Modular forms, sphere packing and energy minimization; Equidistribution in automorphic families; Estimates for L-functions
+   Contents: Introduction to the $$p$$-adic Langlands program; Modular forms, sphere packing and energy minimization; Equidistribution in automorphic families; Estimates for $$L$$-functions
    
 - **[01.2021-05.2021] Arizona Winter School**
   <br>
