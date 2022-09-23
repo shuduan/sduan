@@ -50,7 +50,7 @@ layout: homepage
   <br>
   Modular forms, modular groups, quadratic forms, local-global principal
   
-- **[09.2020-12.20220] Frontier Courses for Postgraduates**
+- **[09.2020-12.2020] Frontier Courses for Postgraduates**
   <br>
   Guangxi Center for Mathematical Research [[link](https://gxcmr.gxu.edu.cn/english.htm)]
   <br>
