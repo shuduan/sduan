@@ -6,7 +6,7 @@ keywords: minimal academic
 #google_scholar: https://scholar.google.com/
 #github_link: https://github.com/yaoyao-liu/strata-academic
 #linkedin: https://www.linkedin.com/
-cv_link: blog.md
+cv_link: blog.html
 avatar: ./assets/img/1.jpg
 google_analytics: UA-111540567-4
 favicon: ./assets/img/phi.png
