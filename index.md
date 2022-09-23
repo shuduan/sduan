@@ -14,7 +14,7 @@ layout: homepage
 ## Talks
 - **[07.2022-08.2022] Algebraic Geometry**
   <br>
-  During this summer holiday a friend and I organized an unofficial student seminar in which I gave several talks based on the second chapter of Hartshone's Algebraic Geometry. [[Notes](https://www.baidu.com/)]
+  During this summer holiday a friend and I organized an unofficial student seminar in which I gave several talks based on the second chapter of Hartshone's Algebraic Geometry. [<a href="PDF-Personal Web/ag-seminar-1-13.pdf">Notes 1</a>] [<a href="PDF-Personal Web/ag-seminar-14-29.pdf">Notes 2</a>]
   
 - **[01.06.2022] Algebraic Cycles**
   <br>
