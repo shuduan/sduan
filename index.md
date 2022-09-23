@@ -33,7 +33,7 @@ layout: homepage
 - **Bachelor thesis supervised by Dr. John Evans**
   <br>
   Representation Theory of Finite Groups and Applications [<a href="MA3PRO_report2020-21.pdf">PDF</a>]
-  <br> This paper introduces representations theory of finite groups and applications on GL_2 over finite fields.
+  <br> This paper introduces representations theory of finite groups and applications on $$\mathrm{GL_2}(\mathbb{F}_{p^n})$$.
   
   
 ## Activities
