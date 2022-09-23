@@ -55,6 +55,10 @@
           <a href="CV.pdf" style="color: white">CV</a>
           <br>
           <a href="NUIST-Transcripts-protected.pdf" style="color: white">Transcripts</a>
+          <br>
+          {% if site.cv_link %}
+          <li><a href="{{ site.cv_link }}" class="icon solid fa-book" style="font-size:30px"><span class="label">CV</span></a></li>
+          {% endif %}
           </header-info>
         </div>
       </header>
@@ -85,9 +89,9 @@
             {% if site.google_scholar %}
             <li><a href="{{ site.google_scholar }}" class="icon brands fa-google"><span class="label">Google Scholar</span></a></li>
             {% endif %}
-            {% if site.cv_link %}
-            <li><a href="{{ site.cv_link }}" class="icon solid fa-book" style="font-size:30px"><span class="label">CV</span></a></li>
-            {% endif %}
+            #{% if site.cv_link %}
+            #<li><a href="{{ site.cv_link }}" class="icon solid fa-book" style="font-size:30px"><span class="label">CV</span></a></li>
+            #{% endif %}
           </ul>
 
         </div>
