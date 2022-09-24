@@ -68,5 +68,5 @@ layout: homepage
   <br>
   Institution: Harbin Institute of Technology [[link](http://en.hit.edu.cn/)]
   <br>
-  Contents: Commutative algebra; Algebraic number theory; p-adic theory of exponential sums; Curves modles that meet meet Baker's bound
+  Contents: Commutative algebra; Algebraic number theory; p-adic theory of exponential sums; Curves modles that meet Baker's bound
   
