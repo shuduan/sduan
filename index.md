@@ -64,3 +64,9 @@ layout: homepage
   <br>
   Contents: Representation Theory
   
+- **[07.2019] "The Road to Mathematics" Summer School**
+  <br>
+  Institution: Harbin Institute of Technology [[link](http://en.hit.edu.cn/)]
+  <br>
+  Contents: Commutative algebra; Algebraic number theory; p-adic theory of exponential sums; Curves modles that meet meet Baker's bound
+  
