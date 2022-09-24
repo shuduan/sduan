@@ -22,7 +22,7 @@ layout: homepage
   
 - **[08.2020] Explicit Construction of the Intermediate Fields Between $$\mathbb{Q}(\zeta_p)$$ and $$\mathbb{Q}$$**
   <br>
-  This note is based on the contents of Exponential Sums given by Prof. Daqing Wan in the summer school Mincourses on Number Theory hosted by Xiamen University. Literally speaking the note introduces the construcion of intermediate fields between $$\mathbb{Q}(\zeta_p)$$ and $$\mathbb{Q}$$. [<a href="PDF-Personal Web/work.pdf">Notes</a>]
+  This note is based on the contents of Exponential Sums given by Prof. Daqing Wan in the summer school Mincourses on Number Theory hosted by Xiamen University. Literally speaking the note introduces the construcion of intermediate fields between $$\mathbb{Q}(\zeta_p)$$ and $$\mathbb{Q}$$ via exponential sums. [<a href="PDF-Personal Web/work.pdf">Notes</a>]
 
 
 
