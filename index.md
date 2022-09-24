@@ -11,7 +11,7 @@ layout: homepage
 - **Arithmetic Geometry**
 
 
-## Talks
+## Talks & Notes
 - **[07.2022-08.2022] Algebraic Geometry**
   <br>
   During this summer holiday a friend and I organized an unofficial student seminar in which I gave several talks based on the second chapter of Hartshone's Algebraic Geometry. [<a href="PDF-Personal Web/ag-seminar-1-13.pdf">Notes 1</a>] [<a href="PDF-Personal Web/ag-seminar-14-29.pdf">Notes 2</a>]
@@ -19,6 +19,10 @@ layout: homepage
 - **[01.06.2022] Algebraic Cycles**
   <br>
   In a research seminar I gave a presentation on algebraic cycles by following some sections of Fulton's Intersection Theory. [<a href="PDF-Personal Web/algebraic cycles.pdf">Notes</a>]
+  
+- **[08.2020] Explicit Construction of the Intermediate Fields Between $$\mathbb{Q}(\zeta_p)$$ and $$\mathbb{Q}$$**
+  <br>
+  This note is based on the contents of Exponential Sums given by Prof. Daqing Wan in the summer school Mincourses on Number Theory hosted by Xiamen University. Literally speaking the note introduces the construcion of intermediate fields between $$\mathbb{Q}(\zeta_p)$$ and $$\mathbb{Q}$$. [<a href="PDF-Personal Web/work.pdf">Notes</a>]
 
 
 
