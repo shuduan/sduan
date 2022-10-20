@@ -27,9 +27,6 @@ layout: homepage
   
   
 ## Papers
-- **Topic of master thesis:** Motives
-  <br>
-  (TBC)
 - **Term paper supervised by Prof. Marat Rovinsky**
   <br>
   Smooth Representations of Totally Disconnected Locally Compact Groups [<a href="combinepdf.pdf">PDF</a>]
